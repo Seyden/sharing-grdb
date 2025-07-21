@@ -1,5 +1,5 @@
 {
-  "originHash" : "887ea190227f910bf0747074677aa35f86af361be94fe78c49e5104061e1771c",
+  "originHash" : "5e95d1369ca22e2cfcc8afd821d2ea25bd42bae35159baa20e56e91407a69700",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -123,8 +123,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/seyden/swift-structured-queries",
       "state" : {
-        "branch" : "multi-primary-key-exploration",
-        "revision" : "84338a1fc6eb515b579a5f1a24514e23c059f64f"
+        "branch" : "composite-key",
+        "revision" : "6bdf7a1a5aa922ef3a496c7ae4a39ebead599070"
       }
     },
     {
